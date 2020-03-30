@@ -1,0 +1,5 @@
+               Rules
+1 - Do Not touch the squares
+2 - By touching the circles you get points!!
+3 - Move the cars by clicking on the lanes
+4 - Enjoy!!
